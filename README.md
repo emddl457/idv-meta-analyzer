@@ -14,7 +14,6 @@ idv_meta/
 ├── service.py       ← 비즈니스 로직 + 트랜잭션 처리
 ├── assets/
 │   └── images/      ← 캐릭터 이미지 (.png)
-└── idv_meta.db      ← DuckDB 영속 파일 (자동 생성)
 ```
 
 ## 설치 및 실행
